@@ -17,8 +17,16 @@ Total Profit, Total Cost and Average Sales in respect to Month Wise and Week wis
 
 ![Profit Cost Avg Sales by Month and Week](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/ac15a1ed-0cc1-40cf-8ffb-67300de16de9)   
 ![Revenue and Cost by Product Name](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/c8f2f2bc-0146-4eff-8564-a2a84b148048)   
+![Avg Sales Channel](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/2d447618-2924-4a0a-bcdb-3277cd150d6e)
+![Rev by Channel](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/5a75cff3-856a-4669-97b2-be64eaf70470)
+![Ttl rev by Country](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/38df1510-d252-4d16-a478-9d980d5a32ff)
+
 
 Sales Last Year & Profit Last year Channel wise implemented alongwith Matrix table where Industries being top channel with good revenue. YTS Sales generated amount of $35.43M, QTD Sales with $15.34M and MTD Sales with $1.14M. YOY Sales, QOQ and MOM Sales are in decline streamline with -57.17%, -61.75% and -91.12%. YTD Sales, QTD Sales and MTD Sales to Product Name being implemented to see the streamline and trendline.
+
+![YTD Sales](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/26510467-40f6-4507-a0dc-776fcd1dcc64)
+![QTD Sales](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/1aaf1a84-ff24-48e2-824d-f3bc1b037d94)
+![MTD Sales](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/acd9264b-b946-49a7-b526-e81b5ea6401f)
 
 Video Link:
 
