@@ -15,10 +15,10 @@ Matrix table is used on Sales Last Year, Cost Last Year & Profit Last Year in re
 
 Total Profit, Total Cost and Average Sales in respect to Month Wise and Week wise being shown by using combo chart. Average Sales wise Channel being shown where Industries generated around 213.35K with 53% followed by Import generated 124.8K average sales with 31% and Export generated around 63.65K with 16%. Revenue wise channel being shown where Industries generated revenue of $111.37M with 54% of total revenue followed by Import generating $64.52M with 31.32% of total revenue and Export generating $30.11M with 14.61% of total revenue.
 
-![Profit Cost Avg Sales by Month and Week](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/ac15a1ed-0cc1-40cf-8ffb-67300de16de9)   
-![Revenue and Cost by Product Name](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/c8f2f2bc-0146-4eff-8564-a2a84b148048)   
-![Avg Sales Channel](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/2d447618-2924-4a0a-bcdb-3277cd150d6e)
 ![Rev by Channel](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/5a75cff3-856a-4669-97b2-be64eaf70470)
+![Avg Sales Channel](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/2d447618-2924-4a0a-bcdb-3277cd150d6e)
+![Revenue and Cost by Product Name](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/c8f2f2bc-0146-4eff-8564-a2a84b148048)  
+![Profit Cost Avg Sales by Month and Week](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/ac15a1ed-0cc1-40cf-8ffb-67300de16de9)    
 
 
 Sales Last Year & Profit Last year Channel wise implemented alongwith Matrix table where Industries being top channel with good revenue. YTS Sales generated amount of $35.43M, QTD Sales with $15.34M and MTD Sales with $1.14M. YOY Sales, QOQ and MOM Sales are in decline streamline with -57.17%, -61.75% and -91.12%. YTD Sales, QTD Sales and MTD Sales to Product Name being implemented to see the streamline and trendline.
