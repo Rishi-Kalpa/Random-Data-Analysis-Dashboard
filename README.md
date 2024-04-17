@@ -25,6 +25,3 @@ Sales Last Year & Profit Last year Channel wise implemented alongwith Matrix tab
 
 ![YTD Sales](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/26510467-40f6-4507-a0dc-776fcd1dcc64)  ![QTD Sales](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/1aaf1a84-ff24-48e2-824d-f3bc1b037d94)  ![MTD Sales](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/acd9264b-b946-49a7-b526-e81b5ea6401f)
 
-Video Link:
-
-[<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7078064710058729472" height="1517" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>](https://www.linkedin.com/posts/rishi-kalpa-mukherjee-1bb18b103_business-data-powerbi-activity-7078065207071154176-ruaQ?utm_source=share&utm_medium=member_desktop)
